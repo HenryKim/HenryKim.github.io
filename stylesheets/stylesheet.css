@@ -14,12 +14,12 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
-.image_of_me{
-  width = 30%;
+div.image_of_me{
+  max-width = 30%;
 }
-.intro_of_me{
+div.intro_of_me{
   postion: relative;
-  width= 60%;
+  max-width= 60%;
 }
 img {
   position: relative;
