@@ -14,12 +14,16 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
+div.profile{
+  max-width = 100%
+}
+}
 div.image_of_me{
   max-width = 30%;
 }
 div.intro_of_me{
   postion: relative;
-  max-width= 60%;
+  max-width= 70%;
 }
 img {
   position: relative;
