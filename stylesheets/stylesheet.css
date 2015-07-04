@@ -16,15 +16,23 @@ a {
     text-decoration: underline; }
 div.profile{
   max-width: 100%;
+  max-height: 300px;
+  position:relative;
 }
+
+div{
+  float:left;
 }
 div.image_of_me{
   max-width: 30%;
+  padding-right: 5px;
 }
-div.intro_of_me{
 
+div.intro_of_me{;
   max-width: 70%;
+  padding-left: 20px;
 }
+
 img {
   position: relative;
   margin: 0 auto;
