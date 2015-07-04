@@ -15,10 +15,11 @@ a {
   a:hover {
     text-decoration: underline; }
 .image_of_me{
-  width = 30%
+  width = 30%;
 }
 .intro_of_me{
-  width= 60%
+  postion: relative;
+  width= 60%;
 }
 img {
   position: relative;
